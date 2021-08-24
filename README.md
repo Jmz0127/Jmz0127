@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋..
+
+- 🔭 I’m currently working on getting through Lambda Full Stack precourse work.
+- 🌱 I’m currently learning HTML, CSS, JS, and React
+- 👯 I’m looking to collaborate on Blockchain programming
+- 🤔 I’m looking for help with: plenty
+- 💬 Ask me about my dog 🐶
+- 📫 How to reach me: cup and string
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Lefties unite 💁🏻‍♂️
 
 <!--
 **Jmz0127/Jmz0127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
