@@ -1,7 +1,7 @@
 ### Hi there 👋..
 
-- 🔭 I’m currently working on getting through Lambda Full Stack precourse work.
-- 🌱 I’m currently learning HTML, CSS, JS, and React
+- 🔭 I’m currently working through Lambda/BTech Full Stack coursework
+- 🌱 I’m currently learning HTML, CSS, JS, and ReactJS
 - 👯 I’m looking to collaborate on Blockchain programming
 - 🤔 I’m looking for help with: plenty
 - 💬 Ask me about my dog 🐶
