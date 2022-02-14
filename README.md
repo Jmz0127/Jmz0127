@@ -1,10 +1,9 @@
 ### Hi there 👋..
 
 - 🔭 I’m currently working through Lambda/BTech Full Stack coursework
-- 🌱 I’m currently learning HTML, CSS, JS, and ReactJS
+- 🌱 I’m currently learning HTML, CSS, JS, ReactJS, Node, and Solidity
 - 👯 I’m looking to collaborate on Blockchain programming
-- 🤔 I’m looking for help with: plenty
-- 💬 Ask me about my dog 🐶
+- 💬 Ask me about my dogs 🐶
 - 📫 How to reach me: cup and string
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Lefties unite 💁🏻‍♂️
