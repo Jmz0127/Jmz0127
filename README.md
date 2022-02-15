@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HTML, CSS, JS, ReactJS, Node, and Solidity
 - 👯 I’m looking to collaborate on Blockchain programming
 - 💬 Ask me about my dogs 🐶
-- 📫 How to reach me: cup and string
+- 📫 How to reach me: cup and string (or Twitter)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Lefties unite 💁🏻‍♂️
 
