@@ -1,10 +1,10 @@
 ### Hi there 👋..
 
 - 🔭 I’m currently working through Bloom Institute of Technology (fka Lambda) Full Stack coursework
-- 🌱 I’m currently learning HTML, CSS, JS, ReactJS, Node, and Solidity
-- 👯 I’m looking to collaborate on Blockchain programming
+- 🌱 I’m currently learning HTML, CSS, JS, ReactJS, Node, Python, and Solidity
+- 👯 I’m looking to collaborate on Blockchain programming/web3 projects
 - 💬 Ask me about my dogs 🐶
-- 📫 How to reach me: cup and string (or Twitter)
+- 📫 How to reach me: cup and string (or Twitter works if you'd like a faster response)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Lefties unite 💁🏻‍♂️
 
