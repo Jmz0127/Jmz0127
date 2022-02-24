@@ -1,6 +1,6 @@
 ### Hi there 👋..
 
-- 🔭 I’m currently working through Bloom Institute of Technology (fka Lambda) Full Stack coursework
+- 🔭 I’m currently working through Bloom Institute of Technology (fka Lambda) Full Stack program
 - 🌱 I’m currently learning HTML, CSS, JS, ReactJS, Node, Python, TypeScript, and Solidity
 - 👯 I’m looking to collaborate on Blockchain programming/web3 projects
 - 💬 Ask me about my dogs 🐶
