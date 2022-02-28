@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working through Bloom Institute of Technology (fka Lambda) Full Stack program
 - 🌱 I’m currently learning HTML, CSS, JS, ReactJS, Node, Python, TypeScript, and Solidity
-- 👯 I’m looking to collaborate on Blockchain programming/web3 projects
+- 👯 I’m looking to collaborate on Blockchain programming/web3 projects. I have extensive experience in finance and accounting and am pivoting into programming. I want these worlds to merge and build the next generation of financial products
 - 💬 Ask me about my dogs 🐶
 - 📫 How to reach me: cup and string (or Twitter works if you'd like a faster response)
 - 😄 Pronouns: He/His
