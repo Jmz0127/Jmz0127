@@ -1,8 +1,8 @@
 ### Hi there 👋..
 
 
-- 🌱 I’m currently learning HTML, CSS, JS, ReactJS, Node, Python, TypeScript, and Solidity
-- 👯 I’m looking to collaborate on Blockchain programming/web3 projects. I have extensive experience in finance and accounting and am pivoting into programming. I want these worlds to merge and build the next generation of financial products
+- 🌱 I’m currently learning JS, ReactJS, Node, Python, TypeScript, and Solidity
+- 👯 I’m looking to collaborate on AI/Fintech project. I have extensive experience in finance and accounting and have pivoted into programming. I want to be an intermediary between these industries to help build the next generation of financial products
 - 🔭 Graduate of Bloom Institute of Technology (fka Lambda) Full Stack program
 - 💬 Ask me about my dogs 🐶
 - 📫 How to reach me: cup and string (or Twitter works if you'd like a faster response)
