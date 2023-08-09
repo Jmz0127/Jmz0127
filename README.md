@@ -1,11 +1,11 @@
 ### Hi there 👋..
 
 
-- 🌱 I’m currently learning JS, ReactJS, Node, Python, TypeScript, and Solidity
-- 👯 I’m looking to collaborate on AI/Fintech projects. I have extensive experience in finance and accounting and have pivoted into programming. I want to be an intermediary between these industries to help build the next generation of financial products
+- 🌱 I’m currently learning Python for automation projects and Solidity for smart contract building
+- 👯 I’m looking to collaborate on AI/Fintech projects. I have extensive experience in finance and accounting and have pivoted into programming. I want to be an intermediary between these industries to help build the next generation of financial/accounting products
 - 🔭 Graduate of Bloom Institute of Technology (fka Lambda) Full Stack program
 - 💬 Ask me about my dogs 🐶
-- 📫 How to reach me: cup and string (or Twitter works if you'd like a faster response)
+- 📫 How to reach me: https://www.linkedin.com/in/jmezz/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Lefties unite 💁🏻‍♂️
 
