@@ -1,7 +1,7 @@
 ### Hi there 👋..
 
 
-- 🌱 I’m currently learning Python automation through the use of TensorFlow
+- 🌱 I’m currently learning Python automation through the use of TensorFlow and simplifying CSS design with TailwindCSS
 - 👯 I’m looking to collaborate on AI/Fintech projects. I have extensive experience in finance and accounting and have pivoted into programming. I want to be an intermediary between these industries to help build the next generation of financial/accounting products
 - 🔭 Graduate of Bloom Institute of Technology (fka Lambda) Full Stack program
 - 💬 Ask me about my dogs 🐶
